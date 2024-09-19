@@ -1,0 +1,20 @@
+Apache Doris
+Apache Druid
+Apache Beam
+Apache Hudi
+Samza
+Apache Flink
+Apache Spark
+Apache Pinot
+Apache Kafka
+Trino
+Delta Lake
+Clickhouse
+Apache Drill
+Airflow
+dbt
+Apache NiFi
+Apache Pulsar
+Apache Storm
+Tableau
+Apache Iceberg
