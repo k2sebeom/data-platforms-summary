@@ -13,3 +13,10 @@ Apache Hudi is an open-source transactional data lake platform designed to bring
 
 [document](./docs/hudi.md)
 
+---
+
+![pinot](./images/logo/pinot.png)
+### [Apache Pinot](https://pinot.apache.org/)
+
+Apache Pinot is a real-time distributed OLAP datastore designed to provide ultra-low-latency analytics on large datasets, allowing for fast, scalable insights. It supports both batch and streaming data ingestion, making it ideal for user-facing applications that require high throughput and low-latency query execution​.
+
